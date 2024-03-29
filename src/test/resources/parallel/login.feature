@@ -1,6 +1,6 @@
 @Login_page
 Feature: Home page Login
-@tag1
+@Login
  Scenario Outline: Login page
     Given Enter Home page portal <title> 
     And   Enter login page

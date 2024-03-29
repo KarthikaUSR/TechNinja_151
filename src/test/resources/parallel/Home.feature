@@ -1,6 +1,6 @@
 @Home_page
 Feature: Home page Login
-@tag1
+@Home_Without_login
  Scenario Outline: Home page without login
   Given Enter DS Algo portal
   When Click <Names> Get Started buttons
